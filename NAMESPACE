@@ -1,0 +1,7 @@
+exportPattern("^[[:alpha:]]+")
+
+import(ssym, gbs, GoFKernel, cubature)
+
+
+importFrom("graphics", "abline", "axis", "par", "plot", "text")
+importFrom("stats", "dnorm", "dt", "integrate", "pgamma", "pnorm","pt", "qnorm", "qt", "quantile", "sd", "uniroot")

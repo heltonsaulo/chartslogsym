@@ -1,0 +1,11 @@
+Package: chartslogsym
+Type: Package
+Title: Bootstrap control charts based on log-symmetric distributions
+Version: 0.1.0
+Author: Helton Saulo and Rafael dos Santos
+Maintainer: Helton Saulo <heltonsaulo@gmail.com>
+Description: This packages provides some functions to create bootstrap control charts based on log-symmetric distributions
+License: GPL-3 + file LICENSE
+Depends: ssym, gbs, GoFKernel, cubature
+Encoding: UTF-8
+LazyData: true
